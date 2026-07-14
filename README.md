@@ -1,0 +1,2 @@
+# finora
+Personal finance dashboard
